@@ -27,6 +27,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "now-build": "sed -i \"\" \"s/GA/$GA/g\" public/index.html &&react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },

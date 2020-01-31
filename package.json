@@ -1,7 +1,7 @@
 {
-  "name": "graphiql-example",
+  "name": "graphqlplayground.com",
   "version": "1.0.0",
-  "description": "Official GraphiQL Example",
+  "description": "A playground for GraphQL",
   "keywords": [
     "graphql",
     "react",

@@ -13,7 +13,7 @@
   "dependencies": {
     "@types/react": "16.9.14",
     "@types/react-dom": "16.9.4",
-    "graphiql": "0.17.2",
+    "graphiql": "1.4.7",
     "graphql": "14.5.8",
     "react": "16.8.4",
     "react-dom": "16.8.4",
